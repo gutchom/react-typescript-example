@@ -1,16 +1,15 @@
 {
-  "name": "observe-2ch-client",
-  "version": "0.1.0",
-  "description": "UI for Observe 2ch Web",
+  "name": "react-typescript-example",
+  "version": "1.0.0",
+  "description": "Sample project with React.js written in TypeScript",
   "author": "gutchom",
   "license": "MIT",
-  "homepage": "https://observe-2ch.gutchom.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gutchom/observe-2ch-client"
+    "url": "https://github.com/gutchom/react-typescript-example"
   },
   "bugs": {
-    "url": "https://github.com/gutchom/assets-manifest/issues"
+    "url": "https://github.com/gutchom/react-typescript-example/issues"
   },
   "engines": {
     "node": "^8.*",

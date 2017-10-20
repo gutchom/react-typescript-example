@@ -1,10 +1,25 @@
-Observe 2ch
-===
+React Typescript Example
+==
 
-Observe them.
+About this
+==
+### Libraries and Tools
+- Framework and Language
+  - React.js
+  - TypeScript
+  - PostCSS/cssnext
+- Testing
+  - Karma
+    - ChromeHeadless
+  - Mocha
+  - PowerAssert
+  - Enzyme
+- Mock Server
+  - Node.js
+
 
 How to develop
----
+--
 
 Run `npm i` at first and then you can use these commands below.
 
